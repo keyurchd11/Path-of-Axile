@@ -1,0 +1,9 @@
+/home/keyur/Desktop/iiit2.2/cg/a1/CMakeFiles/rebuild_cache.dir
+/home/keyur/Desktop/iiit2.2/cg/a1/CMakeFiles/glad.dir
+/home/keyur/Desktop/iiit2.2/cg/a1/CMakeFiles/edit_cache.dir
+/home/keyur/Desktop/iiit2.2/cg/a1/CMakeFiles/game.dir
+/home/keyur/Desktop/iiit2.2/cg/a1/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/keyur/Desktop/iiit2.2/cg/a1/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/keyur/Desktop/iiit2.2/cg/a1/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/keyur/Desktop/iiit2.2/cg/a1/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/keyur/Desktop/iiit2.2/cg/a1/libraries/glfw/src/CMakeFiles/glfw.dir
