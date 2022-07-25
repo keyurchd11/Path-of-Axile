@@ -29,4 +29,4 @@ You can toggle the lights to earn more coins! The lights are on by default, but 
 
 2. Use the make command to compile the game.
 
-3. Run the game using ``.\game``
+3. Run the game using ``./game``
