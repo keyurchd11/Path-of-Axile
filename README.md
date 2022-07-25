@@ -1,6 +1,6 @@
 # Path-of-Exile
 
-An innocent boy is trapped in a dungeon with virus all around him. Can you help him cross the levels while collecting the blue bricks which represent the currency in DungeonLand? 
+An innocent boy is trapped in a dungeon with virus all around him. Can you help him cross the levels while collecting the blue bricks which represent the currency in DungeonLand?
 Here's a glimpse of the gameplay
 
 <p align="center">
@@ -29,4 +29,4 @@ You can toggle the lights to earn more coins! The lights are on by default, but 
 
 2. Use the make command to compile the game.
 
-3. Run the game using ``\.game``
+3. Run the game using ``.\game``
